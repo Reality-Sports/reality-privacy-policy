@@ -1,11 +1,12 @@
-**Privacy Policy**
+## **Privacy Policy**
 
-*Last Updated: \[Insert Date]*
+*Last Updated: [Insert Date]*
 
-**Introduction**
+### **Introduction**
+
 Reality ("we," "us," or "our") values your privacy and is dedicated to protecting your personal data. This Privacy Policy describes our practices regarding the collection, use, and disclosure of your information when you use our mobile application (the "App") and associated services (collectively, the "Services"). By using our Services, you consent to the practices described in this Privacy Policy.
 
-**Table of Contents**
+### **Table of Contents**
 
 1. What Information Do We Collect?
 2. How Do We Process Your Information?
@@ -20,91 +21,123 @@ Reality ("we," "us," or "our") values your privacy and is dedicated to protectin
 11. Do We Make Updates to This Privacy Policy?
 12. How Can You Contact Us?
 
-**1. What Information Do We Collect?**
+---
 
-We collect personal information you voluntarily provide when you register for our Services, interact with our features, or contact us directly. Information collected may include:
+### **1. What Information Do We Collect?**
 
-| Category                  | Examples                                  | Collected          |
-| ------------------------- | ----------------------------------------- | ------------------ |
-| Personal identifiers      | Names, email addresses, phone numbers     | YES                |
-| Profile information       | Profile images, usernames                 | YES                |
-| Transactional information | Payment and booking details               | YES                |
-| Device and usage data     | IP address, device type, app interactions | YES                |
-| Location data             | Approximate or precise location           | YES (with consent) |
+We collect personal information that you voluntarily provide when you register for our Services, initiate bookings, interact with app features, or contact us directly.
 
-We automatically collect information such as device type, IP address, app usage, interactions, and precise or approximate location data (with your consent).
+| Category                  | Examples                                           | Collected          |
+| ------------------------- | -------------------------------------------------- | ------------------ |
+| Personal identifiers      | Name, email address, phone number                  | YES                |
+| Profile information       | Profile image, username                            | YES                |
+| Transactional information | Booking details, payment and invoicing information | YES                |
+| Device and usage data     | IP address, device type, app interactions          | YES                |
+| Location data             | Approximate or precise location                    | YES (with consent) |
 
-**2. How Do We Process Your Information?**
+**Phone Number**
+We collect a phone number to support essential, transactional communication related to user-initiated bookings, including time-sensitive updates, scheduling changes, and operational coordination. Phone numbers are **not used for marketing or advertising purposes** and are **not shared with third parties**. Phone number data is retained only for as long as necessary to provide the requested service and in accordance with applicable privacy regulations.
+
+**Email Address**
+Email addresses are collected and used for account-related communication and invoicing purposes, including booking confirmations, receipts, transactional notifications, and important service updates. Email is the **primary channel for financial and billing-related communication**.
+
+We also automatically collect certain information, such as device type, IP address, app usage patterns, interactions, and approximate or precise location data (with your consent).
+
+---
+
+### **2. How Do We Process Your Information?**
 
 We process your information to:
 
-* Deliver and facilitate Services, including managing bookings and transactions
-* Improve user experience
-* Provide customer support
-* Communicate updates, promotions, and other relevant information
-* Ensure security and fraud prevention
-* Comply with legal obligations
+* Deliver and operate the Services, including managing bookings, transactions, and account access
+* Communicate essential service information, including booking confirmations, scheduling updates, receipts, and transactional notifications
+* Provide customer support and respond to user inquiries
+* Improve user experience and app functionality
+* Ensure security, prevent fraud, and maintain platform integrity
+* Comply with legal and regulatory obligations
 
-**3. What Legal Bases Do We Rely On?**
+---
+
+### **3. What Legal Bases Do We Rely On?**
 
 Depending on your location, we may process your information based on:
 
-* Consent (you may withdraw at any time)
-* Fulfillment of contractual obligations
+* Your consent (which you may withdraw at any time)
+* Performance of a contract with you
 * Compliance with legal obligations
-* Protection of your or others' vital interests
-* Legitimate business interests (not overriding your fundamental rights)
+* Protection of vital interests
+* Legitimate business interests that do not override your fundamental rights
 
-**4. When and With Whom Do We Share Your Information?**
+---
 
-We share information only as necessary:
+### **4. When and With Whom Do We Share Your Information?**
 
-| Situation             | Examples of Sharing                                       |
-| --------------------- | --------------------------------------------------------- |
-| Third-party providers | Payment processing, analytics services, IT infrastructure |
-| Legal compliance      | Responding to legal requests or obligations               |
-| Business transfers    | Mergers, acquisitions, asset sales                        |
+We share personal information only when necessary and limited to the following situations:
 
-**5. Do We Use Cookies or Other Tracking Technologies?**
+| Situation             | Examples of Sharing                                     |
+| --------------------- | ------------------------------------------------------- |
+| Third-party providers | Payment processing, analytics, IT infrastructure        |
+| Legal compliance      | Responding to lawful requests or regulatory obligations |
+| Business transfers    | Mergers, acquisitions, or asset sales                   |
 
-We utilize cookies and similar technologies to enhance user experience, analyze usage patterns, and improve our Services. You may control cookies through your browser settings.
+We do **not** sell personal data and do **not** share phone numbers for marketing purposes.
 
-**6. How Long Do We Retain Your Information?**
+---
 
-We retain personal information only as long as necessary to fulfill the purposes outlined, comply with laws, or resolve disputes. Information no longer needed will be securely deleted or anonymized.
+### **5. Do We Use Cookies or Other Tracking Technologies?**
 
-**7. How Do We Protect Your Information?**
+We use cookies and similar technologies to enhance functionality, analyze usage patterns, and improve our Services. You may manage cookie preferences through your device or browser settings.
 
-We implement reasonable technical and organizational measures to secure your data against unauthorized access, modification, or destruction. However, no method is 100% secure, and data transmission involves inherent risks.
+---
 
-**8. Do We Collect Information from Minors?**
+### **6. How Long Do We Retain Your Information?**
 
-Our Services are not intended for users under 13 years of age. If we inadvertently collect information from minors, we will promptly delete it upon discovery.
+We retain personal information only for as long as necessary to fulfill the purposes outlined in this policy, comply with legal requirements, or resolve disputes. Data that is no longer required is securely deleted or anonymized.
 
-**9. What Are Your Privacy Rights?**
+---
+
+### **7. How Do We Protect Your Information?**
+
+We implement reasonable technical and organizational safeguards to protect your information from unauthorized access, alteration, disclosure, or destruction. Despite these measures, no system can be guaranteed to be completely secure.
+
+---
+
+### **8. Do We Collect Information from Minors?**
+
+Our Services are not intended for children under the age of 13. We do not knowingly collect personal data from minors. If such data is identified, it will be promptly deleted.
+
+---
+
+### **9. What Are Your Privacy Rights?**
 
 Depending on your jurisdiction, you may have rights including:
 
-* Access to and rectification or deletion of your personal data
-* Restriction or objection to data processing
+* Access, correction, or deletion of your personal data
+* Restriction or objection to certain processing activities
 * Data portability
 * Withdrawal of consent
-* Opting out of marketing communications
+* Opt-out of non-essential communications
 
-To exercise these rights, please contact us directly.
+Requests can be made by contacting us using the details below.
 
-**10. Controls for Do-Not-Track Features**
+---
 
-Currently, we do not respond to Do-Not-Track signals as a standardized method is not established.
+### **10. Controls for Do-Not-Track Features**
 
-**11. Do We Make Updates to This Privacy Policy?**
+We currently do not respond to Do-Not-Track (DNT) signals due to the absence of an industry-wide standard.
 
-We may update this policy periodically. We encourage you to review this policy regularly to remain informed of our privacy practices. Significant changes will be communicated clearly.
+---
 
-**12. How Can You Contact Us?**
+### **11. Do We Make Updates to This Privacy Policy?**
 
-For any questions or concerns regarding this Privacy Policy or your personal data, please contact us at:
+We may update this Privacy Policy from time to time. Any changes will be reflected by the “Last Updated” date, and material changes will be communicated where appropriate.
 
-Reality Support Team
-Email: Support@Reality-co.com
-Address: 3427 126th PL SE, Everett WA98208
+---
+
+### **12. How Can You Contact Us?**
+
+If you have questions or concerns about this Privacy Policy or our data practices, you may contact us at:
+
+**Reality Support Team**
+Email: [support@reality-co.com](mailto:support@reality-co.com)
+Address: 3427 126th PL SE, Everett, WA 98208
